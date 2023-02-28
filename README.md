@@ -1,4 +1,6 @@
 # nuke-the-url
+![Made by Ukrainian](https://img.shields.io/static/v1?label=Made%20by&message=Ukrainian&labelColor=1f5fb2&color=fad247&style=flat)
+
 An easy-to-use tool with JMeter under the hood that allows to stress a web service from CLI
 
 ## Compile from sources
